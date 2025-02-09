@@ -1,4 +1,7 @@
-# draw_papers
+# Momentum Contrast for Unsupervised Visual Representation Learning
+
+[Paper](https://arxiv.org/pdf/1911.05722) | [GitHub](https://github.com/facebookresearch/moco)
+
 
 ```mermaid
 graph TD;
