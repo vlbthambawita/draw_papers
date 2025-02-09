@@ -1,4 +1,5 @@
 # Draw Paper: Machine Learning Paper Presentations
+⚠ Warning: All diagrams in this repository are LLM-generated and may contain inaccuracies. Please verify details before using them for critical applications.
 
 ## Introduction
 This repository contains structured presentations of **various machine learning research papers** using **minimal text** and **many diagrams** to make key ideas more accessible. Each paper's methodology is explained with **Mermaid diagrams**, **step-by-step algorithm breakdowns**, and **implementation insights**. The goal is to provide a **visual and textual** understanding of important machine learning concepts with concise explanations.
