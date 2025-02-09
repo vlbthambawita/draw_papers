@@ -22,4 +22,4 @@ graph TD;
     H -->|Backpropagation| I[Update Encoder and Projection Head]
     I -->|Repeat for Next Batch| A
     
-    H -->|Trained Encoder| J[Linear Classifier or Fine-tuning]Paste the corrected code here>
+    H -->|Trained Encoder| J[Linear Classifier or Fine-tuning]
