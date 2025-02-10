@@ -6,12 +6,6 @@
 ## Flow of the main method
 
 ```mermaid
----
-config:
-  look: handDrawn
-  theme: neutral
----
-
 graph TD;
     A[Start Input Batch - N Images] -->|Augment Twice| B[Two Views - 2N Images]
     B -->|Pass through Encoder| C[Feature Extraction - h_i, h_j]
