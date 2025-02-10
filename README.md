@@ -16,7 +16,8 @@ This repository contains structured presentations of **various machine learning 
 ## Papers Covered
 1. [SimCLR (Simple Framework for Contrastive Learning of Visual Representations)](papers/SimCLR.md)
 2. [MoCo (Momentum Contrast for Unsupervised Visual Representation Learning)](papers/MoCo.md)
-3. [More Papers Coming Soon!]
+3. [BYOL (Bootstrap Your Own Latent A New Approach to Self-Supervised Learning)](papers/BYOL.md)
+4. [More Papers Coming Soon!]
 
 ## How to Use This Repository
 1. **Browse the Paper Summaries** in the `papers/` directory.
