@@ -30,6 +30,13 @@ This repository contains structured presentations of **various machine learning 
 1. [Goku: Flow Based Video Generative Foundation Models](papers/Goku.md)
 </details>
 
+<details>
+    <summary style="font-size: 1.5em;"> Audio Models </summary>
+
+1. [WaveNet: A Generative Model for Raw Audio](papers/WaveNet.md)
+
+</details>
+
 ## How to Use This Repository
 1. **Browse the Paper Summaries** in the `papers/` directory.
 2. **Use the Mermaid Diagrams** to quickly grasp methodologies.
