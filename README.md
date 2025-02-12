@@ -33,7 +33,7 @@ This repository contains structured presentations of **various machine learning 
 <details>
     <summary style="font-size: 1.5em;"> Audio Models </summary>
 
-1. [WaveNet: A Generative Model for Raw Audio](papers/WaveNet.md)
+1. [WaveNet: A Generative Model for Raw Audio](papers/wave2vec2.md)
 
 </details>
 
