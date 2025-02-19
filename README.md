@@ -16,12 +16,14 @@ This repository contains structured presentations of **various machine learning 
 ## Papers Covered
 
 <details>
-    <summary style="font-size: 1.5em;"> Contrastive Learning Methods  </summary>
+    <summary style="font-size: 1.5em;"> Self-supervised Learning Methods  </summary>
 
 1. [SimCLR (Simple Framework for Contrastive Learning of Visual Representations)](papers/SimCLR.md)
 2. [MoCo (Momentum Contrast for Unsupervised Visual Representation Learning)](papers/MoCo.md)
 3. [BYOL (Bootstrap Your Own Latent A New Approach to Self-Supervised Learning)](papers/BYOL.md)
-4. [More Papers Coming Soon!]
+4. [DINOv2: Learning Robust Visual Features without Supervision](papers/Dinov2.md)
+
+[More Papers Coming Soon!]
 </details>
 
 <details>
