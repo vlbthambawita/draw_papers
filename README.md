@@ -7,8 +7,6 @@ This repository contains structured presentations of **various machine learning 
 ## Contents
 - 📊 **Flow Diagrams**: **Mermaid.js-based** visualizations of each paper's methodology.
 
-
-
 ## Why This Repository?
 - 📚 **Educational Resource**: Helps researchers, students, and engineers understand ML methods faster.
 - 🛠 **Hands-on Learning**: Includes **reproducible implementations** of core ideas.
@@ -18,10 +16,10 @@ This repository contains structured presentations of **various machine learning 
 <details>
     <summary style="font-size: 1.5em;"> Self-supervised Learning Methods  </summary>
 
-1. [SimCLR (Simple Framework for Contrastive Learning of Visual Representations)](papers/SimCLR.md)
-2. [MoCo (Momentum Contrast for Unsupervised Visual Representation Learning)](papers/MoCo.md)
-3. [BYOL (Bootstrap Your Own Latent A New Approach to Self-Supervised Learning)](papers/BYOL.md)
-4. [DINOv2: Learning Robust Visual Features without Supervision](papers/Dinov2.md)
+1. [SimCLR (Simple Framework for Contrastive Learning of Visual Representations)](papers/01_SimCLR.md)
+2. [MoCo (Momentum Contrast for Unsupervised Visual Representation Learning)](papers/02_MoCo.md)
+3. [BYOL (Bootstrap Your Own Latent A New Approach to Self-Supervised Learning)](papers/03_BYOL.md)
+4. [DINOv2: Learning Robust Visual Features without Supervision](papers/04_Dinov2.md)
 
 [More Papers Coming Soon!]
 </details>
@@ -29,14 +27,19 @@ This repository contains structured presentations of **various machine learning 
 <details>
     <summary style="font-size: 1.5em;"> Video Generation Models </summary>
 
-1. [Goku: Flow Based Video Generative Foundation Models](papers/Goku.md)
+1. [Goku: Flow Based Video Generative Foundation Models](papers/05_Goku.md)
 </details>
 
 <details>
     <summary style="font-size: 1.5em;"> Audio Models </summary>
 
-1. [WaveNet: A Generative Model for Raw Audio](papers/wave2vec2.md)
+1. [WaveNet: A Generative Model for Raw Audio](papers/06_wave2vec2.md)
+</details>
 
+<details>
+    <summary style="font-size: 1.5em;"> Word Embedding Models </summary>
+
+1. [GloVe: Global Vectors for Word Representation](papers/07_GloVe.md)
 </details>
 
 ## How to Use This Repository
@@ -52,7 +55,7 @@ We welcome contributions! If you want to add a new paper or improve an existing 
 3. Submit a pull request with your additions.
 
 ---
-📝 **Maintainer:**  Vajira Thambawita
+📝 **Maintainer:**  Vajira Thambawita  
 📩 **Contact:** vajira@simula.no  
 🚀 **Stay Updated:** Star ⭐ the repository for future updates!
 
