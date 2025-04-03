@@ -1,5 +1,8 @@
 # GloVe: Global Vectors for Word Representation
 
+- 📄 [Original Paper](https://nlp.stanford.edu/pubs/glove.pdf)  
+- 💻 [GitHub Repository](https://github.com/stanfordnlp/GloVe)
+
 This document explains the key steps in the GloVe paper using multiple **Mermaid diagrams** with example dimensions for clarity.
 
 ---
